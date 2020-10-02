@@ -1,0 +1,11 @@
+.fontSize{
+    font-size: 1.3em;
+}
+.table{
+    border: 1px solid black;
+    border-collapse: collapse;
+    padding: 20px;
+}
+.sth{
+    width: 300px;
+}
